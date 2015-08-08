@@ -1,0 +1,2 @@
+What does the command ":l Filename_hs" mean?
+What does the command ":r" mean?
