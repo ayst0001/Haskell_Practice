@@ -1,4 +1,4 @@
 Notes for Haskell
 1, Expect a lot of errors, since the compiler of Haskell is extremely strick. This makes Haskell very safe.
 2, Normally "not in scope" error means "cannot find the reference"
-
+3, Functions cannot start with a uppercase letter

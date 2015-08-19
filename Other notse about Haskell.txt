@@ -1,6 +1,0 @@
-:q to quit ghci
-
--- Use the following command to compile Haskell file with a main function
-ghc --make filename.hs
--- And then run the file with the following command
-./filename
