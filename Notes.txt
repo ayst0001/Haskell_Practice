@@ -1,4 +1,8 @@
 Notes for Haskell
 1, Expect a lot of errors, since the compiler of Haskell is extremely strick. This makes Haskell very safe.
-2, Normally "not in scope" error means "cannot find the reference"
+2, Normally "not in scope" error means "cannot find the reference", or "your input format is wrong"
 3, Functions cannot start with a uppercase letter
+4, The :l in GHCI actually means :load, these two commands do the same thing
+5, The :r in GHCI actually means :reload, these two commands do the same thing
+6, The :t in GHCI actually means :type, these two commands do the same thing
+

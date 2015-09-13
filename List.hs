@@ -68,3 +68,7 @@ power3 = [ 3^n | n <- [1..10]]
 -- This will create 9 tables, with 9 elements in each table
 multiTable = [[x*y|y<-[1..9]]|x<-[1..9]]
 
+-- \ can be used to represent elements
+dbl1To10 = map (\x->x*2)[1..10]
+-- It's the same as
+doubleList = [x*2|x<-[1..10]]

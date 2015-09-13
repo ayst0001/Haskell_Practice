@@ -1,3 +1,6 @@
+-- exporting everything here as "Testing"
+module Functions where
+
 import Data.List
 import System.IO
 
@@ -21,3 +24,9 @@ whatAge 16 = "You can drive"
 whatAge 18 = "You can vote"
 whatAge 21 = "You can drink"
 whatAge x = "Nothing important"
+
+-- Functions can be passed just like variables
+times4 :: Int -> Int
+times4 x = x*4
+listTimes4 = map times4[1..5]
+

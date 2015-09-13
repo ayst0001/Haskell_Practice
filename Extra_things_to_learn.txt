@@ -1,6 +1,2 @@
-What does the command ":l Filename_hs" mean? Just compile a file?
-What does the command ":r" mean?
-What does the return value of :t mean? just the data type of the input/output of a particular function?
-
 What is a module? Since it’s a collection of functions, is it like package in java?
 What does import do?
